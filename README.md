@@ -1,4 +1,4 @@
-TrialistUpdate2-5-14
-====================
+Results for 2017-2018 Flu Forecast
+==================================
 
-Updated version of the N-of-1 R code as of 2-5-14
+This repository contains weekly updates of the results from the Bayesian B-spline model for the 2017-2018 Influenza Forecase Challenge.
